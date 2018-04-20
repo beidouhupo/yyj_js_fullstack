@@ -1,0 +1,1 @@
+Console.log('合唱团')
